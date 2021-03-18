@@ -1,6 +1,3 @@
-[![Build Status](https://dev.azure.com/rahmath12/Pipelines-Dotnetcore/_apis/build/status/Rahmath1.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/rahmath12/Pipelines-Dotnetcore/_build/latest?definitionId=4&branchName=master)
-
-https://dev.azure.com/rahmath12/Pipelines-Dotnetcore/_apis/build/status/Rahmath1.pipelines-dotnet-core?branchName=master
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
